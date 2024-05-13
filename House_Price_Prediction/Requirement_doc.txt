@@ -1,0 +1,34 @@
+Research Methodology
+Methodology Overview:
+1. Data Collection: The first step involves collecting historical data on various factors that 
+influence house prices, such as property features (e.g., size, location, and amenities), 
+economic indicators (e.g., interest rates, GDP growth), demographic data, and housing 
+market trends. Sources of data may include public databases, real estate listings, 
+government reports, and economic indicators.
+2. Data Pre-processing: Once the data is collected, it undergoes pre-processing to ensure its 
+quality and suitability for analysis. This includes handling missing values, removing 
+outliers, normalizing numerical features, and encoding categorical variables. Additionally, 
+feature engineering techniques may be applied to create new variables or transform existing 
+ones to better capture relationships with house prices.
+3. Exploratory Data Analysis (EDA): EDA is conducted to gain insights into the relationships 
+between the independent variables (features) and the target variable (house prices). 
+Visualization techniques such as scatter plots, histograms, and correlation matrices are used 
+to identify patterns, trends, and potential outliers in the data.(bivariate and univariate analysis of each features)
+4. Model Selection: Several predictive modelling techniques are evaluated to determine the 
+most suitable approach for house price prediction. This may include linear regression, 
+decision trees, random forests, gradient boosting, neural networks, and other machine 
+learning algorithms. The selection criteria typically consider predictive performance, 
+interpretability, computational efficiency, and scalability.
+5. Model Training: The selected models are trained using a portion of the dataset, with the 
+remainder held out for validation and testing. Techniques such as cross-validation may be 
+employed to assess model performance and prevent overfitting. Hyper parameter tuning 
+may also be performed to optimize model parameters and improve predictive accuracy.
+6. Model Evaluation: The trained models are evaluated using appropriate performance 
+metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean 
+Squared Error (RMSE), and R-squared (R^2). These metrics quantify the model's ability 
+to accurately predict house prices on unseen data.
+7
+7. Model Interpretation: Interpretability techniques are applied to understand the factors 
+driving house price predictions. Feature importance analysis, partial dependence plots 
+values are commonly used to interpret the contribution of each feature to the model's 
+predictions.

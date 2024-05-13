@@ -1,0 +1,27 @@
+These columns provide below information
+
+1)cid: Notation for a house. Will not of our use. So we will drop this column 
+2)dayhours: Represents Date, when house was sold. 
+3)price: It's our TARGET feature, that we have to predict based on other featues 
+4)room_bed: Represents number of bedrooms in a house 
+5)room_bath: Represents number of bathrooms
+6)living_measure: Represents square footage of house 
+7)lot_measure: Represents square footage of lot
+8)ceil: Represents number of floors in house
+9)coast: Represents whether house has waterfront view. It seems to be a categorical variable. We will see in our further data analysis
+10)sight: Represents how many times sight has been viewed.
+11)condition: Represents the overall condition of the house. It's kind of rating given to the house.
+12)quality: Represents grade given to the house based on grading system
+13)ceil_measure: Represents square footage of house apart from basement
+14)basement: Represents square footage of basement
+15)yr_built: Represents the year when house was built
+16)yr_renovated: Represents the year when house was last renovated
+17)zipcode: Represents zipcode as name implies
+18)lat: Represents Lattitude co-ordniates
+19)long: Represents Longitude co-ordinates
+20)living_measure15: Represents square footage of house, when measured in 2015 year as house area may or may not changed after renovation if any happened
+21)lot_measure15: Represents square footage of lot, when measured in 2015 year as lot area may or may not change after renovation if any done
+22)furnished: Tells whether house is furnished or not. It seems to be categorical variable as description implies
+23)total_area: Represents total area i.e. area of both living and lot.
+
+
